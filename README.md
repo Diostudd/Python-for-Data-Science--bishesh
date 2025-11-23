@@ -14,7 +14,7 @@ This project explores electric vehicle (EV) data to visualize trends and insight
 - Data visualization
 
 ## How to Run
-1. Open `Data_Visualization/ev_visualization.ipynb` in Jupyter Notebook
+1. Open `Data Visualization/ev.ipynb` in Jupyter Notebook
 2. Ensure the dataset file is in the same folder  
 3. Run all cells to see the charts and analysis  
 
